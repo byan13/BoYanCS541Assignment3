@@ -18,7 +18,7 @@ class GameOverScene: SKScene {
     backgroundColor = SKColor.white
     
     // 2
-    let message = won ? "You Are A True KungFu Master!" : "You Lose, Sucker!"
+    let message = won ? "You Are A True KungFu Master!" : "You Still Have A Long Way to go!"
     
     // 3
     let label = SKLabelNode(fontNamed: "BradleyHandiTCTT-Bold")

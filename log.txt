@@ -1,0 +1,159 @@
+commit 3a33929d61cfa5ba03290fd0c3522f09dbbe08d9
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Fri Oct 11 18:25:22 2019 -0400
+
+    First version done
+
+ .DS_Store                                          | Bin 6148 -> 6148 bytes
+ Animation/.DS_Store                                | Bin 6148 -> 6148 bytes
+ Animation/Animation.xcodeproj/project.pbxproj      | 314 +++++++++++----------
+ .../UserInterfaceState.xcuserstate                 | Bin 22291 -> 25536 bytes
+ Animation/Animation/AppDelegate.swift              |   2 +-
+ Animation/Animation/GameOverScene.swift            |  48 ++++
+ Animation/Animation/GameScene.sks                  | Bin 4066 -> 4056 bytes
+ Animation/Animation/GameScene.swift                | 227 +++++++++++----
+ Animation/Animation/GameViewController.swift       |   2 +-
+ Animation/Animation/monster.png                    | Bin 0 -> 13985 bytes
+ Animation/Animation/player.png                     | Bin 0 -> 10629 bytes
+ Animation/Animation/projectile.png                 | Bin 0 -> 5867 bytes
+ Animation/AnimationTests/AnimationTests.swift      |   2 +-
+ Animation/AnimationUITests/AnimationUITests.swift  |   2 +-
+ 14 files changed, 383 insertions(+), 214 deletions(-)
+
+commit e2a3020bd928cee40fd96e24eff1b3e3edab1527
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Fri Oct 11 11:04:52 2019 -0400
+
+    update
+
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 20097 -> 22291 bytes
+ Animation/Animation/GameScene.sks                   | Bin 11680 -> 4066 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit c365a32d2114fc56d6640bd7cfb33bca56b7ca5a
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Thu Oct 10 01:55:47 2019 -0400
+
+    Add more actions
+
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 20250 -> 20097 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ef567135e654854cac925a6bb8d1006ebf116741
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Mon Oct 7 10:24:44 2019 -0400
+
+    Gravity added
+
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 20029 -> 20250 bytes
+ Animation/Animation/GameScene.sks                   | Bin 9955 -> 11680 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 7cd8e6c50ff7621edc404fff3312f3ddc05cfb49
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Sun Oct 6 18:25:27 2019 -0400
+
+    Daily update
+
+ Animation/.DS_Store                                 | Bin 6148 -> 6148 bytes
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 20020 -> 20029 bytes
+ Animation/Animation/GameScene.sks                   | Bin 4956 -> 9955 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1a7a9b03640c6738e5344d22dc6d0abd5b34ad87
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Fri Oct 4 10:48:56 2019 -0400
+
+    Updated animation
+
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 20018 -> 20020 bytes
+ Animation/Animation/GameScene.sks                   | Bin 4967 -> 4956 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0d2e0e2b4ec152c4accbbd4b2e8a6d50bc84f794
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Wed Oct 2 10:01:59 2019 -0400
+
+    Daily update
+
+ Animation/.DS_Store                                 | Bin 6148 -> 6148 bytes
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 20018 -> 20018 bytes
+ Animation/Animation/GameScene.sks                   | Bin 4957 -> 4967 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 108c65f9346a99dc5f33c433da08f10da8268671
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Tue Oct 1 12:24:51 2019 -0400
+
+    Update animation
+
+ .DS_Store                                           | Bin 6148 -> 6148 bytes
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 19731 -> 20018 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f2d6e82345a3d22b6fa3fea8acaac094dcfd7067
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Sat Sep 28 17:54:04 2019 -0400
+
+    Animation updated
+
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate | Bin 17541 -> 19731 bytes
+ Animation/Animation/GameScene.sks                   | Bin 4941 -> 4957 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4962c095e635132af942888bbac644b9aba60608
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Fri Sep 27 09:41:55 2019 -0400
+
+    Update animation
+
+ .DS_Store                                            | Bin 0 -> 6148 bytes
+ Animation/.DS_Store                                  | Bin 0 -> 6148 bytes
+ .../byan.xcuserdatad/UserInterfaceState.xcuserstate  | Bin 9168 -> 17541 bytes
+ Animation/Animation/GameScene.sks                    | Bin 4694 -> 4941 bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bdc9f953f32153a78bd544f3ba2a4e1bf0c137ed
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Wed Sep 25 10:27:09 2019 -0400
+
+    XCode Project Created
+
+ Animation/Animation.xcodeproj/project.pbxproj      | 597 +++++++++++++++++++++
+ .../project.xcworkspace/contents.xcworkspacedata   |   7 +
+ .../xcshareddata/IDEWorkspaceChecks.plist          |   8 +
+ .../UserInterfaceState.xcuserstate                 | Bin 0 -> 9168 bytes
+ .../xcschemes/xcschememanagement.plist             |  14 +
+ Animation/Animation/Actions.sks                    | Bin 0 -> 1892 bytes
+ Animation/Animation/AppDelegate.swift              |  41 ++
+ .../AppIcon.appiconset/Contents.json               |  98 ++++
+ Animation/Animation/Assets.xcassets/Contents.json  |   6 +
+ .../Animation/Base.lproj/LaunchScreen.storyboard   |  25 +
+ Animation/Animation/Base.lproj/Main.storyboard     |  24 +
+ Animation/Animation/GameScene.sks                  | Bin 0 -> 4694 bytes
+ Animation/Animation/GameScene.swift                |  89 +++
+ Animation/Animation/GameViewController.swift       |  50 ++
+ Animation/Animation/Info.plist                     |  47 ++
+ Animation/AnimationTests/AnimationTests.swift      |  34 ++
+ Animation/AnimationTests/Info.plist                |  22 +
+ Animation/AnimationUITests/AnimationUITests.swift  |  43 ++
+ Animation/AnimationUITests/Info.plist              |  22 +
+ 19 files changed, 1127 insertions(+)
+
+commit 72d7199f366dd47087d0ca630a6a980fed3971b9
+Author: byan13 <46941918+byan13@users.noreply.github.com>
+Date:   Mon Sep 23 10:07:01 2019 -0400
+
+    Update README.md
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f92c32145ada934615a0310dd1ff5e980113a49d
+Author: byan13 <46941918+byan13@users.noreply.github.com>
+Date:   Mon Sep 23 10:03:53 2019 -0400
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
