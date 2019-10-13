@@ -1,3 +1,24 @@
+commit 96babca514598da4e256ddce21836040b8d4e007
+Author: byan13 <46941918+byan13@users.noreply.github.com>
+Date:   Sun Oct 13 10:12:00 2019 -0400
+
+    Update README.md
+
+ README.md | 27 +++++++++++++++++++++++++++
+ 1 file changed, 27 insertions(+)
+
+commit e3ca419be73006d2c44a185f39ba58962205bb9e
+Author: Bo Yan <byan2@binghamton.edu>
+Date:   Sun Oct 13 09:48:36 2019 -0400
+
+    Done
+
+ .DS_Store                                          | Bin 6148 -> 6148 bytes
+ .../UserInterfaceState.xcuserstate                 | Bin 25536 -> 29731 bytes
+ Animation/Animation/GameOverScene.swift            |   2 +-
+ log.txt                                            | 159 +++++++++++++++++++++
+ 4 files changed, 160 insertions(+), 1 deletion(-)
+
 commit 3a33929d61cfa5ba03290fd0c3522f09dbbe08d9
 Author: Bo Yan <byan2@binghamton.edu>
 Date:   Fri Oct 11 18:25:22 2019 -0400
